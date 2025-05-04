@@ -4,16 +4,21 @@ A Python-based project that allows users to manage their personal book library. 
 
 ## Features
 
-- View the list of books in the library.
-- Search for a specific book to see if it's available.
-- Add new books to the library.
-- Mark books as "read" or "unread".
-- Save progress with data persistence using JSON.
+- Add books with title, author, genres, and read status
+- View all books
+- Search for specific titles
+- Edit book details (NEW)
+- Save your library to a JSON file
 
 ## Requirements
 
 - Python 3.x
 - No external libraries required.
+
+## 🛠 Usage
+Run the app with:
+```bash
+python virtual_library.py
 
 ## How to Use
 
