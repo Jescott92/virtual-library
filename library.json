@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Alchemist",
+        "authors": [
+            "Paulo Coelho"
+        ],
+        "genres": [
+            "Fiction",
+            "Adventure"
+        ],
+        "read": true
+    },
+    {
+        "title": "Chain-Gang All-Stars",
+        "authors": [
+            "Nana Kwame Adjei-Brenyah"
+        ],
+        "genres": [
+            "Fiction",
+            "Dystopian",
+            "Sci-Fi",
+            "Political Fiction"
+        ],
+        "read": false
+    }
+]
